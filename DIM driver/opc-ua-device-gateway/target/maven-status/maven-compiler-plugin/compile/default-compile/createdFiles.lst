@@ -1,0 +1,14 @@
+com/inductiveautomation/ignition/examples/tagdriver/DimDevice.class
+com/inductiveautomation/ignition/examples/tagdriver/DimDriver.class
+com/inductiveautomation/ignition/examples/tagdriver/AbstractTagDevice$WritableTag.class
+com/inductiveautomation/ignition/examples/tagdriver/AbstractTagDevice$2.class
+com/inductiveautomation/ignition/examples/tagdriver/AbstractTagDevice$ReadOnlyTag.class
+com/inductiveautomation/ignition/examples/tagdriver/DimDevice$2.class
+com/inductiveautomation/ignition/examples/tagdriver/io/DimClient.class
+com/inductiveautomation/ignition/examples/tagdriver/DimDevice$1.class
+com/inductiveautomation/ignition/examples/tagdriver/configuration/settings/DimClientSettings.class
+com/inductiveautomation/ignition/examples/tagdriver/AbstractTagDevice.class
+com/inductiveautomation/ignition/examples/tagdriver/configuration/ExampleDeviceType.class
+com/inductiveautomation/ignition/examples/tagdriver/configuration/ValueSimulator.class
+com/inductiveautomation/ignition/examples/tagdriver/ModuleHook.class
+com/inductiveautomation/ignition/examples/tagdriver/AbstractTagDevice$1.class
